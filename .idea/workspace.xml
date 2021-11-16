@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4279b936-c83b-4d82-84ca-0fde3102f4f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConcretePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonByCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonByStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637072965651</updated>
-      <workItem from="1637072967376" duration="462000" />
+      <workItem from="1637072967376" duration="725000" />
     </task>
     <servers />
   </component>
