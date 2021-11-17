@@ -1,3 +1,5 @@
+package singleton;
+
 /**
  * TODO
  * 设计模式--单例模式--双重校验

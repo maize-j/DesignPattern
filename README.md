@@ -4,6 +4,8 @@
 
 ### 单例模式Singleton
 
-[双重校验法](https://github.com/maize-j/DesignPattern/blob/main/src/main/java/SingletonByCheck.java)
+[双重校验法](https://github.com/maize-j/DesignPattern/blob/main/src/main/java/singleton/SingletonByCheck.java)
 
-[静态内部类](https://github.com/maize-j/DesignPattern/blob/main/src/main/java/SingletonByStatic.java)
+[静态内部类](https://github.com/maize-j/DesignPattern/blob/main/src/main/java/singleton/SingletonByStatic.java)
+
+### 工厂方法

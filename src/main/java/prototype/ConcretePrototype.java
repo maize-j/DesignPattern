@@ -1,8 +1,10 @@
+package prototype;
+
 /**
  * TODO
  *
  * @author 苞谷洁子
- * @ClassName ConcretePrototype
+ * @ClassName prototype.ConcretePrototype
  * @date 2021/3/24 16:57
  */
 public class ConcretePrototype extends Prototype {
